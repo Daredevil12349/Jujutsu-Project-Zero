@@ -124,3 +124,16 @@ All secondary. **No primary manga chapter or anime episode was read.** "Chapter 
 | J-DT | DocumentaryTube blog: Yuji's domain | COMMUNITY (low) | https://www.documentarytube.com/?p=258901 | Unverified; Dismantle on soul boundary |
 
 Discarded as unreliable (not cited): a WorldAnvil fan-universe "Domains Explained" page, D&D/Minecraft/game-mod pages, and unrelated results.
+
+
+## Part 1 supplemental reference: VV: Ultimatum (2026-11-23)
+These are secondary sources used to identify questions for first-hand observation. They do not establish exact current-patch mechanics or balance values.
+
+| ID | Source | Type | URL | Accessed | Access depth | Supports |
+|---|---|---|---|---|---|---|
+| V01 | AllThingsHow, VV Ultimatum factions, combat, leveling overview | WIKI-SECONDARY | https://allthings.how/vv-ultimatum-on-roblox-factions-combat-and-leveling-explained/ | 2026-11-23 | web search / secondary overview | Broad combat and progression reference; verify in game |
+| V02 | VV Ultimatum community reference hub | COMMUNITY | https://vvultimatum.net/ | 2026-11-23 | landing page / secondary | Leads for mechanics and progression; reliability varies |
+| V03 | Games.gg, Z-Step guide | WIKI-SECONDARY | https://games.gg/roblox/guides/vv-ultimatum-how-to-master-z-step/ | 2026-11-23 | web search / secondary guide | Movement-tech reference; exact behavior UNVERIFIED |
+| V04 | Nitrogenic, "VV: Ultimatum Is Parry SLOP (literally)" | COMMUNITY / OPINION | https://www.youtube.com/watch?v=GQ7QTZRpiAc | 2026-11-23 | creator opinion reference | Criticism to investigate, not community consensus |
+
+Research note: The project adaptation document [[docs/01-reference-games/vv-ultimatum-design-takeaways]] explicitly labels these claims REPORTED and the design conclusions RECOMMENDATION. Owner first-hand clips are still needed before recording OBSERVED mechanics.
