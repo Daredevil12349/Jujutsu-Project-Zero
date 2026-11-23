@@ -1,0 +1,37 @@
+{"timestamp":"2026-11-22T18:13:56.220Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-22T18:13:56.242Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-22T18:13:56.251Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-22T18:13:56.257Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-22T18:13:56.268Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-22T18:13:56.268Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-22T18:14:15.980Z","level":"INFO","message":"Claude Desktop config updated","fields":{"configPath":"<home>\\AppData\\Roaming\\Claude\\claude_desktop_config.json","pluginId":"obsidian_jujutsu_zero_repo_official","removedKeys":[]}}
+{"timestamp":"2026-11-22T18:26:59.794Z","level":"INFO","message":"MCP Tools Plugin loading","fields":{"pluginVersion":"3.3.0","platform":"win32"}}
+{"timestamp":"2026-11-22T18:26:59.809Z","level":"INFO","message":"MCP Connector HTTP server listening","fields":{"port":27201,"pluginVersion":"3.3.0"}}
+{"timestamp":"2026-11-22T18:26:59.815Z","level":"INFO","message":"Hosting the shared MCP broker","fields":{"port":27200}}
+{"timestamp":"2026-11-22T18:26:59.821Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-22T18:26:59.830Z","level":"INFO","message":"semantic-search: started","fields":{"provider":"auto"}}
+{"timestamp":"2026-11-22T18:26:59.830Z","level":"INFO","message":"MCP Tools Plugin loaded","fields":{}}
+{"timestamp":"2026-11-22T18:42:41.752Z","level":"WARN","message":"[mcp] modern-era request rejected","fields":{"error":"Rejected inbound request (version-header-missing): Bad Request: the request headers and body disagree: the body envelope names protocol version 2026-07-28 but the required MCP-Protocol-Version header is absent"}}
+{"timestamp":"2026-11-22T18:42:41.753Z","level":"INFO","message":"mcp request","fields":{"method":"server/discover","era":"modern","requestedVersion":"2026-07-28","tokenId":"default","status":400,"durationMs":31}}
+{"timestamp":"2026-11-22T23:44:51.173Z","level":"INFO","message":"Broker route registered","fields":{"brokerPort":27200,"transportPort":27201}}
+{"timestamp":"2026-11-22T23:54:02.350Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_server_info","argKeys":[],"outcome":"ok","durationMs":1,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:04:51.947Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_vault_overview","argKeys":[],"outcome":"ok","durationMs":25,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:04:54.523Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"get_vault_file","argKeys":["path"],"outcome":"ok","durationMs":28,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:04:59.920Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"list_vault_files","argKeys":["directory","limit"],"outcome":"ok","durationMs":1,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:05:13.588Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["path","content"],"outcome":"ok","durationMs":5,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:05:16.487Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"append_to_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:05:18.703Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"append_to_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:07:17.679Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["path","content"],"outcome":"ok","durationMs":6,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:07:27.171Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:07:38.995Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:07:48.322Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:07:57.988Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":3,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:08:09.479Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:08:14.368Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":3,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:08:29.200Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":5,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:08:41.264Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":3,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:08:51.807Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:09:12.338Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"append_to_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":3,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:09:16.034Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"append_to_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":2,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:13:22.792Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":5,"tokenId":"default","era":"legacy"}}
+{"timestamp":"2026-11-23T05:13:34.835Z","level":"INFO","message":"mcp tool call","fields":{"method":"tools/call","tool":"create_vault_file","argKeys":["content","path"],"outcome":"ok","durationMs":4,"tokenId":"default","era":"legacy"}}

@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "986080b8707bf90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c79e6582624a3ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62995244b97810b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jujutsu-Project-Zero-repo/repo/MASTER_GAME_DESIGN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MASTER_GAME_DESIGN"
+            }
+          },
+          {
+            "id": "d50b28573f54477d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/techniques/sukuna-cutting-techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sukuna-cutting-techniques"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c4b41bffc5db394",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a067ba1b0143508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ffb0a4b49dbe6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22595e309e1395a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57d4ec9794f9dbaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d06cb72c8c265d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b80c9337d75f91ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "851b1a2be90b571b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f44bdeac729c34cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a12d831c7582fb3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9dc3f8c345f4f08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2dfc2231c1b72748",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d50b28573f54477d",
+  "lastOpenFiles": [
+    "Jujutsu-Project-Zero-repo/repo/docs/01-reference-games/akayuki-steel-blossoms-red.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/01-reference-games/jujutsu-infinite.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/reverse-cursed-technique.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/heavenly-restriction.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/barrier-techniques-and-domains.md",
+    "Jujutsu-Project-Zero-repo/repo/templates/research-entry.md",
+    "Jujutsu-Project-Zero-repo/repo/templates/boss.md",
+    "Jujutsu-Project-Zero-repo/repo/templates/animation.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/10-picture and video reference/Jujutsu_Project_Zero_Gameplay_Reference_Pack.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/09-roblox-handbook/02-hit-detection.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/08-progression/README.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/07-techniques/README.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/06-vfx-sfx/README.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/05-animation/README.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/05-animation/rct-limb-regrowth.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/grades.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/cursed-techniques.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/cursed-spirits-and-objects.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/cursed-energy.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/black-flash.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/concepts/binding-vows.md",
+    "Jujutsu-Project-Zero-repo/repo/MASTER_GAME_DESIGN.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/techniques/sukuna-cutting-techniques.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/techniques/idle-transfiguration.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/10-picture and video reference/README.md",
+    "Jujutsu-Project-Zero-repo/repo/README.md",
+    "Jujutsu-Project-Zero-repo/repo/docs/10-picture and video reference",
+    "Jujutsu-Project-Zero-repo/repo/docs/New folder",
+    "Untitled.canvas",
+    "Jujutsu-Project-Zero-repo/repo/src/server/Systems",
+    "Jujutsu-Project-Zero-repo/repo/src/server/init.server.luau",
+    "Jujutsu-Project-Zero-repo/repo/src/shared/Util",
+    "Jujutsu-Project-Zero-repo/repo/src/shared/Types.luau",
+    "Jujutsu-Project-Zero-repo/repo/src/shared/Config.luau",
+    "Jujutsu-Project-Zero-repo/repo/src/client/init.client.luau",
+    "Jujutsu-Project-Zero-repo/repo/src/client/Controllers",
+    "Jujutsu-Project-Zero-repo/repo/docs/02-jjk-encyclopedia/techniques"
+  ]
+}

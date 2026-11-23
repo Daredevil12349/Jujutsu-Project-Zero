@@ -1,0 +1,123 @@
+{
+  "toolLoading": {
+    "profile": "all",
+    "promoted": [],
+    "counters": {
+      "get_server_info": 1,
+      "get_vault_overview": 1,
+      "get_vault_file": 1,
+      "list_vault_files": 1,
+      "create_vault_file": 13,
+      "append_to_vault_file": 4
+    },
+    "profiles": {
+      "default": {
+        "profile": "all",
+        "promoted": [],
+        "allowed": null,
+        "searchResultsView": false
+      },
+      "kmQejXce4sC-": {
+        "profile": "adaptive",
+        "promoted": [
+          "create_vault_file",
+          "append_to_vault_file"
+        ],
+        "allowed": null
+      }
+    },
+    "everCalled": {
+      "default": [
+        "get_server_info",
+        "get_vault_overview",
+        "get_vault_file",
+        "list_vault_files",
+        "create_vault_file",
+        "append_to_vault_file"
+      ]
+    },
+    "everCalledSince": 1795371236228
+  },
+  "mcpTransport": {
+    "tokens": [
+      {
+        "id": "default",
+        "label": "Default",
+        "token": "z4MgZNMfbBl3N0KWdBg9NH2RE7yAo7JYCMRACUyKBa8",
+        "createdAt": 1795371236221
+      },
+      {
+        "id": "kmQejXce4sC-",
+        "label": "New client",
+        "token": "chcUkyMJBQ3g_pHBju9UIZYo4DeY6deO6k6MtjrH6nw",
+        "createdAt": 1795391113988
+      }
+    ],
+    "bearerToken": "z4MgZNMfbBl3N0KWdBg9NH2RE7yAo7JYCMRACUyKBa8",
+    "livePort": 27201,
+    "eraCounters": {
+      "legacy": 28,
+      "modern": 1
+    },
+    "eraCountersByToken": {
+      "default": {
+        "legacy": 28,
+        "modern": 1
+      }
+    }
+  },
+  "mcpClientConfig": {
+    "codexDiscovery": {
+      "routeId": "56560935-1e29-4192-a420-25165f58327f",
+      "accessToken": "x2JpIGVXEKvF_tXCvlvxdl-VVI6W9ZZIelBzsoiIgqA",
+      "dataPath": "c:\\users\\adam\\downloads\\roblox ai stuff obs vault\\jujutsu zero repo official\\.obsidian\\plugins\\mcp-tools-istefox\\data.json"
+    },
+    "autoWriteClaudeDesktopConfig": true,
+    "autoWriteTokenId": "default",
+    "mcpRemotePreWarm": {
+      "lastWarmedAt": "2026-11-22T18:24:20.838Z"
+    }
+  },
+  "semanticSearch": {
+    "provider": "auto",
+    "indexingMode": "live",
+    "unloadModelWhenIdle": false
+  },
+  "commandPermissions": {
+    "enabled": true,
+    "allowlist": [
+      "editor:toggle-bold",
+      "editor:toggle-strikethrough",
+      "editor:toggle-highlight",
+      "editor:toggle-code",
+      "editor:toggle-inline-math",
+      "editor:toggle-blockquote",
+      "editor:toggle-bullet-list",
+      "editor:toggle-numbered-list",
+      "editor:toggle-checklist-status",
+      "editor:toggle-comments",
+      "editor:insert-link",
+      "editor:insert-wikilink",
+      "editor:insert-embed",
+      "editor:insert-horizontal-rule",
+      "editor:insert-callout",
+      "editor:insert-tag",
+      "app:go-back",
+      "app:go-forward",
+      "editor:focus-top",
+      "editor:focus-bottom",
+      "editor:focus-left",
+      "editor:focus-right",
+      "workspace:split-vertical",
+      "workspace:split-horizontal",
+      "workspace:close",
+      "workspace:next-tab",
+      "workspace:previous-tab",
+      "graph:open",
+      "graph:open-local",
+      "global-search:open",
+      "switcher:open",
+      "file-explorer:reveal-active-file"
+    ]
+  }
+}
